@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Rik Vermeulen</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi there👋, I'm Rik Vermeulen</h1>
+<h3>I am a Creative Developer living in Rotterdam, the Netherlands. I develop full-scale creative digital experiences for some amazing agencies and hugely talented people around the world. I’m here to ask the necessary (and sometimes difficult questions) to create products and concepts that focus on and prioritise people.</h3>
 
 - 🔭 I’m currently working on [Lightning](https://github.com/rikvermeulen/lightning)
 
