@@ -1,6 +1,6 @@
 # Hi there👋  I'm Rik Vermeulen
 
-I am a Creative Developer living in Rotterdam, the Netherlands. I develop full-scale creative digital experiences for some amazing agencies and hugely talented people around the world. I’m here to ask the necessary (and sometimes difficult questions) to create products and concepts that focus on and prioritise people.
+I am a Creative Developer living in Rotterdam, the Netherlands. I develop full-scale creative digital experiences for some amazing agencies and hugely talented people around the world. I’m here to ask the necessary and sometimes difficult questions to create products and concepts that focus on and prioritise people.
 
    <p align="left">
       <a href="https://github.com/rikvermeulen?tab=followers">
