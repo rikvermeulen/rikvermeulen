@@ -10,9 +10,9 @@ I am a Creative Developer living in Rotterdam, the Netherlands. I develop full-s
    </p>
    <br/>
 
-- 🔭 I’m currently working on [Lightning](https://github.com/rikvermeulen/lightning)
+- 🔭 I’m currently working on [Lightning](https://github.com/rikvermeulen/lightning) and [create-lightning-app](https://github.com/rikvermeulen/create-lightning-app)
 
-- 🌱 I’m currently learning **React, NextJS, Svelte, kubernetes, docker**
+- 🌱 I’m currently learning **React, Node, NextJS, Svelte, kubernetes, docker**
 
 - 👨‍💻 All of my projects are available at [rikvermeulen.com](rikvermeulen.com)
 
