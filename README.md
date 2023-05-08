@@ -14,7 +14,7 @@ I am a Creative Developer living in Rotterdam, the Netherlands. I develop full-s
 
 - 🌱 I’m currently learning **React, Node, NextJS, Svelte, kubernetes, docker**
 
-- 👨‍💻 All of my projects are available at [rikvermeulen.com](https://rikvermeulen.com)
+- 👨‍💻 All of my projects are available at [rikvermeulen.com](https://www.rikvermeulen.com)
 
 - 💬 Ask me about **Anything**
 
