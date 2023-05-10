@@ -1,8 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./assets/light.png">
+</picture>
 
-# Hi there 👋  I'm Rik Vermeulen
-
+<p align="center">
 I am a Creative Developer living in Rotterdam, the Netherlands. I develop full-scale creative digital experiences for some amazing agencies and hugely talented people around the world. I’m here to ask the necessary and sometimes difficult questions to create products and concepts that focus on and prioritise people.
-
+</p>
 #
 
 <p align="center">
@@ -12,14 +15,13 @@ I am a Creative Developer living in Rotterdam, the Netherlands. I develop full-s
   <br />
 </p>
 
-   
 My main projects:
 
 - ⚡ [lightning](https://github.com/rikvermeulen/lightning)
 - 🧶 [create-lightning-app](https://github.com/rikvermeulen/create-lightning-app)
 - 🦊 [co-op](https://github.com/rikvermeulen/co-op-gitlab)
 - 👨🏻‍💻 [portfolio](https://github.com/)
-   
+
 ## Tools
 
 <p align="left">
@@ -47,7 +49,6 @@ My main projects:
 - 👨‍💻 All of my projects are available at [rikvermeulen.com](https://www.rikvermeulen.com)
 - 💬 Ask me about **Anything**
 - 📫 How to reach me **rik.vermeulen.1997@live.nl**
-
 
 <img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 
