@@ -6,6 +6,7 @@
 <p align="center">
 I am a Creative Developer living in Rotterdam, the Netherlands. I develop full-scale creative digital experiences for some amazing agencies and hugely talented people around the world. I’m here to ask the necessary and sometimes difficult questions to create products and concepts that focus on and prioritise people.
 </p>
+
 #
 
 <p align="center">
@@ -15,7 +16,7 @@ I am a Creative Developer living in Rotterdam, the Netherlands. I develop full-s
   <br />
 </p>
 
-My main projects:
+## My main projects
 
 - ⚡ [lightning](https://github.com/rikvermeulen/lightning)
 - 🧶 [create-lightning-app](https://github.com/rikvermeulen/create-lightning-app)
@@ -44,13 +45,12 @@ My main projects:
 
 ## Trivia
 
-- 🔭 I’m currently working on [Lightning](https://github.com/rikvermeulen/lightning) and [create-lightning-app](https://github.com/rikvermeulen/create-lightning-app)
 - 🌱 I’m currently learning **React, Node, NextJS, Svelte, kubernetes, docker**
 - 👨‍💻 All of my projects are available at [rikvermeulen.com](https://www.rikvermeulen.com)
 - 💬 Ask me about **Anything**
 - 📫 How to reach me **rik.vermeulen.1997@live.nl**
 
-<img align="right" src="./assets/tail.png" height="140" title="Peace" />
+<img align="right" src="./assets/tail.png" height="100" title="Bye" />
 
 <br/><br/><br/><br/>
 **[Visit my website &rarr;](https://www.rikvermeulen.com)**
