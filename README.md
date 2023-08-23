@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-I am a Creative Developer living in Rotterdam, the Netherlands. I develop full-scale creative digital experiences for some amazing agencies and hugely talented people around the world. I’m here to ask the necessary and sometimes difficult questions to create products and concepts that focus on and prioritise people.
+I am a Creative Developer living in Heukelum, the Netherlands. I develop full-scale creative digital experiences for some amazing agencies and hugely talented people around the world. I’m here to ask the necessary and sometimes difficult questions to create products and concepts that focus on and prioritise people.
 </p>
 
 #
