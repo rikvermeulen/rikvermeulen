@@ -50,7 +50,5 @@ I am a Creative Developer living in Heukelum, the Netherlands. I develop full-sc
 - 💬 Ask me about **Anything**
 - 📫 How to reach me **rik.vermeulen.1997@live.nl**
 
-<img align="right" src="./assets/tail.png" height="100" title="Bye" />
-
 <br/><br/><br/><br/>
 **[Visit my website &rarr;](https://www.rikvermeulen.com)**
